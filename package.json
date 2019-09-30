@@ -1,0 +1,26 @@
+{
+    "name": "loco",
+    "version": "0.1.0",
+    "description": "Simple configuration loader using an option flag",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/loonies/loco.git"
+    },
+    "keywords": [
+        "config",
+        "conf",
+        "configuration",
+        "settings",
+        "preferences"
+    ],
+    "author": "Miodrag Tokić",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/loonies/loco/issues"
+    },
+    "homepage": "https://github.com/loonies/loco",
+    "dependencies": {
+        "yargs": "^14.0.0"
+    }
+}
